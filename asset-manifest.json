@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shankar-sutar77/react-mobx/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shankar-sutar77/react-mobx/static/js/main.a9792f79.chunk.js",
+    "main.js.map": "/shankar-sutar77/react-mobx/static/js/main.a9792f79.chunk.js.map",
+    "runtime-main.js": "/shankar-sutar77/react-mobx/static/js/runtime-main.5556afbd.js",
+    "runtime-main.js.map": "/shankar-sutar77/react-mobx/static/js/runtime-main.5556afbd.js.map",
+    "static/js/2.beeadc6b.chunk.js": "/shankar-sutar77/react-mobx/static/js/2.beeadc6b.chunk.js",
+    "static/js/2.beeadc6b.chunk.js.map": "/shankar-sutar77/react-mobx/static/js/2.beeadc6b.chunk.js.map",
+    "index.html": "/shankar-sutar77/react-mobx/index.html",
+    "precache-manifest.4b1684c014eaadb1c6ceab5839ee1f10.js": "/shankar-sutar77/react-mobx/precache-manifest.4b1684c014eaadb1c6ceab5839ee1f10.js",
+    "service-worker.js": "/shankar-sutar77/react-mobx/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shankar-sutar77/react-mobx/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.beeadc6b.chunk.js.LICENSE.txt": "/shankar-sutar77/react-mobx/static/js/2.beeadc6b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shankar-sutar77/react-mobx/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5556afbd.js",
+    "static/js/2.beeadc6b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a9792f79.chunk.js"
+  ]
+}
